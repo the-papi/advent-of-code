@@ -114,5 +114,5 @@ def main_gear_ratio():
 
 
 if __name__ == '__main__':
-    # main()
+    main()
     main_gear_ratio()
